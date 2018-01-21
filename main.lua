@@ -1,3 +1,9 @@
+--[[
+    =======================
+    rm -rf .git
+    =======================
+]]--
+
 local Grid = require("src.grid")
 
 local grid
